@@ -11,9 +11,6 @@ git add .
 ```
 Or add specific files:
 
-```bash
-git add .
-```
 
 ## 2. Commit Changes
 
